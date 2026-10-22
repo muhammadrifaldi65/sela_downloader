@@ -1,0 +1,7 @@
+# Ignore everything by default so this repository only publishes the app source.
+*
+
+# Keep repository metadata and the main application.
+!.gitignore
+!downloader_app.py
+!README.md
